@@ -4,6 +4,7 @@ body {
 }
 p {
     margin-bottom: 2em;
+    font-style: italic;
 }
 .container {
     display: grid;
